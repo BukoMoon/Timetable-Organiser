@@ -1,0 +1,2 @@
+ITC106,Lecture,Tuesday,18:00,19:00,Distance,N00000,Mostafa Dahshan
+ITC132,Tutorial,Thursday,14:00,15:00,Distance,D28969,Linus Torvalds

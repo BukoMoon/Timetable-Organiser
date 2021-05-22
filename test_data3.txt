@@ -1,0 +1,2 @@
+ITC161,Tutorial,Monday,18:00,19:00,Distance,X10232,Quazi Mamun
+ITC101,Lecture,Tuesday,18:00,19:00,Bathurst,X10645,Margaret Hamilton

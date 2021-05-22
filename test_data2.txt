@@ -1,0 +1,2 @@
+ITC105,Lecture,Monday,17:00,18:00,Distance,A10000,Anthony Chan
+ITC162,Tutorial,Wednesday,12:00,13:00,Distance,A91968,David Plummer
